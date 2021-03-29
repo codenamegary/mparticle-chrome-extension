@@ -1,0 +1,31 @@
+body {
+  margin:10px;
+}
+
+.request-type {
+  color:blue;
+}
+
+.request-type:hover {
+  cursor:pointer;
+}
+
+.number {
+  color:blue;
+}
+
+.key {
+  color:purple;
+}
+
+.string {
+  color:saddlebrown;
+}
+
+.null {
+  color:gray;
+}
+
+.boolean {
+  color:royalblue;
+}
